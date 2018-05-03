@@ -75,6 +75,8 @@ $$
 
 # TODO
 * Add IAF
+* [https://arxiv.org/pdf/1606.04934.pdf](https://arxiv.org/pdf/1606.04934.pdf)
+* [https://arxiv.org/pdf/1502.03509.pdf](https://arxiv.org/pdf/1502.03509.pdf)
 
 # Reference
 [1] Jimenez Rezende, D., Mohamed, S., "Variational Inference with Normalizing Flows", 
